@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+.spacer{
+	margin-top: 35px;
+}
+.error{
+	color: red;
+}
